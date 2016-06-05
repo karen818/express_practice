@@ -1,0 +1,19 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "Express.js practice from code school",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karen818/express_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karen818/express_practice/issues"
+  },
+  "homepage": "https://github.com/karen818/express_practice#readme"
+}
